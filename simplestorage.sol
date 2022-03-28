@@ -5,7 +5,7 @@ contract SimpleContract {
     // state variable to store number
     uint public num;
 
-    // write to state variable(num) by sendind transaction
+    // write to state variable(num) by sending transaction
     function set(uint _num) public {
         num = _num;
     }  
