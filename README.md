@@ -1,8 +1,9 @@
 // Solidity By Example 
- Following the examples on soliditybyexample.org to understand solidity basic concepts better.
+ Following the examples on solidity-by-example.org to understand solidity basic concepts better.
 
  - Data Types: boolean, uint, int, dynamically-sized byte arrays
  - Variables: state, local & global
+ - Arrays/Array methods: pop/shift/delete/length
 
  
 ## Built With
