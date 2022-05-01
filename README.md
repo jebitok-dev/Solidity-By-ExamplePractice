@@ -1,4 +1,4 @@
-// Solidity By Example 
+# Solidity By Example 
  Following the examples on solidity-by-example.org to understand solidity basic concepts better.
 
  - Data Types: boolean, uint, int, dynamically-sized byte arrays
